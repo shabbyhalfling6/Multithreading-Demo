@@ -1,2 +1,2 @@
-#TargetFrameworkVersion=v4.0:PlatformToolSet=v141:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=10.0.16299.0
-Release|x64|C:\Users\bjohnston3\Downloads\Multithreaded Raytracing\Multithreaded Raytracing\raytracer\|
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v141:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=8.1
+Release|x64|D:\Brady's Documents\UNI Stuff\New folder (2)\Multithreading-Demo\|
